@@ -3,7 +3,12 @@ PyTorch 1.6.0 implementation of the following paper.
 
 Demo.py for model test.
 
+opt.py for the setting of hyper-parameters.
+
 Pretrained model weight available at: https://pan.quark.cn/s/bc3ee29dd408
+
+# Data preparation
+The precomputed region features from the raw images using [bottom-up-attention](https://github.com/MILVLG/bottom-up-attention.pytorch) model. 
 
 # Citation
 If you find our work is useful for your project or research, please consider citing our paper:  
