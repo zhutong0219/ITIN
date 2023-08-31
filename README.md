@@ -3,6 +3,8 @@ PyTorch 1.6.0 implementation of the following paper.
 
 Demo.py for model test.
 
+Pretrained model weight available at: https://pan.quark.cn/s/bc3ee29dd408
+
 # Citation
 If you find our work is useful for your project or research, please consider citing our paper:  
 @ARTICLE{ITIN,  
